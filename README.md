@@ -24,16 +24,4 @@ A high-performance, cinematic personal portfolio built to showcase my projects, 
 6. **Journey**: A chronological timeline of key events and growth.
 7. **Contact**: Quick links to GitHub, Instagram, and Email.
 
-## 🚀 How to Run Locally
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/keepitc00L/portfolio.git
-   ```
-2. Navigate into the directory:
-   ```bash
-   cd portfolio
-   ```
-3. Open `index.html` in your favorite web browser, or start a local server (e.g., using VS Code Live Server).
-
----
-*Built with curiosity & AI-assisted development.*
+Website link-https://keepitc00l.github.io/My-Portfolio/
